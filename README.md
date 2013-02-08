@@ -11,3 +11,11 @@ githubtest
 - branches
 - trunk
 
+To commit the work you need to use your github email address 
+svn --username=fsadiq@kuali.org commit ./
+
+
+2. Checkinging out just trunk with 
+svn checkout https://github.com/farooqsadiq/githubtest.git/trunk just-trunk
+- README
+- authors.txt
