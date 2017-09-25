@@ -19,3 +19,8 @@ svn --username=fsadiq@kuali.org commit ./
 svn checkout https://github.com/farooqsadiq/githubtest.git/trunk just-trunk
 - README
 - authors.txt
+
+# Project Boards 
+
+The project kanban board feature of github, is interesting. You can create columns and then move notes across the board. 
+* You can convet a task into a issue. Let me see if I can close the issue 
